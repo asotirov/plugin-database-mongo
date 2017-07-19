@@ -1,0 +1,6 @@
+{
+  "name": "model-sql-user-zdravei",
+  "version": "0.0.1",
+  "main": "user-models.js",
+  "private": true
+}
